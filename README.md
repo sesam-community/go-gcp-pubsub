@@ -1,5 +1,7 @@
 # go-gcp-pubsub
 
+[![Build Status](https://travis-ci.org/sesam-community/go-gcp-pubsub.svg?branch=master)](https://travis-ci.org/sesam-community/go-gcp-pubsub)
+
 Simple GCP pubsub sink for Sesam.io powered applications
 
 env vars to configure service
